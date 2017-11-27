@@ -40,7 +40,7 @@ ku = LINETCR.LINE() #Suzuko
 ku.login(qr=True)
 
 
-print "login success"
+print "Welcome"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
