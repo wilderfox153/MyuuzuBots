@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-import MYUUZU
-from MYUUZU.lib.curve.ttypes import *
+import LINETCR
+from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re
 
@@ -30,7 +30,7 @@ ka.login(qr=True)
 kb = LINETCR.LINE() #Rin
 kb.login(qr=True)
 
-ko = LINETCR.LINE() #ico
+ko = LINETCR.LINE() #Nico
 ko.login(qr=True)
 
 ke = LINETCR.LINE() #Hanayo
