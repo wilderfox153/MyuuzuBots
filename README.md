@@ -15,8 +15,8 @@ A. Via Termux (Android)
    
 B. Via VPS
 
-   - sudo apt-get install rsa
-   - sudo apt-get install requests
-   - sudo apt-get thrift==0.9.3
+   - sudo pip install rsa
+   - sudo pip install requests
+   - sudo pip install thrift==0.9.3
    - git clone https://gitlab.com/Nanjolno/MyuuzuBots
    - Done
