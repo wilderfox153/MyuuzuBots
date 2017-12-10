@@ -20,3 +20,5 @@ B. Via VPS
    - sudo pip install thrift==0.9.3
    - git clone https://gitlab.com/Nanjolno/MyuuzuBots
    - Done
+   
+©Alfathdirk. github.com/Alfathdirk/LIN3-TCR
